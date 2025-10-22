@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\veri taban\u0131 \u00F6devi\\usta_i\u015Fci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7899E531-193B-4A41-9498-04A72B3548BD}|usta_i\u015Fci\\usta_i\u015Fci.csproj|c:\\users\\pc\\desktop\\veri taban\u0131 \u00F6devi\\usta_i\u015Fci\\usta_i\u015Fci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7899E531-193B-4A41-9498-04A72B3548BD}|usta_i\u015Fci\\usta_i\u015Fci.csproj|solutionrelative:usta_i\u015Fci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\veri taban\u0131 \u00F6devi\\usta_i\u015Fci\\usta_i\u015Fci\\Program.cs",
+              "RelativeDocumentMoniker": "usta_i\u015Fci\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\veri taban\u0131 \u00F6devi\\usta_i\u015Fci\\usta_i\u015Fci\\Program.cs",
+              "RelativeToolTip": "usta_i\u015Fci\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:52:20.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

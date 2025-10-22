@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\UstaPlatform.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\UstaPlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\UstaPlatform.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\UstaPlatform.Infrastructure.AssemblyInfo.cs
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\UstaPlatform.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\bin\Debug\net8.0\UstaPlatform.Infrastructure.deps.json
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\bin\Debug\net8.0\UstaPlatform.Infrastructure.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\bin\Debug\net8.0\UstaPlatform.Infrastructure.pdb
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\bin\Debug\net8.0\UstaPlatform.Pricing.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\bin\Debug\net8.0\UstaPlatform.Pricing.pdb
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\UstaPlat.7F5DF24D.Up2Date
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\UstaPlatform.Infrastructure.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\refint\UstaPlatform.Infrastructure.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\UstaPlatform.Infrastructure.pdb
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Infrastructure\obj\Debug\net8.0\ref\UstaPlatform.Infrastructure.dll

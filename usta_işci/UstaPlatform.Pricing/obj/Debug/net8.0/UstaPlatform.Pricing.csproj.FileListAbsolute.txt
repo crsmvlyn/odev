@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\bin\Debug\net8.0\UstaPlatform.Pricing.deps.json
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\bin\Debug\net8.0\UstaPlatform.Pricing.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\bin\Debug\net8.0\UstaPlatform.Pricing.pdb
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\UstaPlatform.Pricing.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\UstaPlatform.Pricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\UstaPlatform.Pricing.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\UstaPlatform.Pricing.AssemblyInfo.cs
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\UstaPlatform.Pricing.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\UstaPlat.DE2413AA.Up2Date
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\UstaPlatform.Pricing.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\refint\UstaPlatform.Pricing.dll
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\UstaPlatform.Pricing.pdb
+C:\Users\pc\Desktop\veri tabanı ödevi\usta_işci\UstaPlatform.Pricing\obj\Debug\net8.0\ref\UstaPlatform.Pricing.dll
